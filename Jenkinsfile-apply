@@ -39,6 +39,7 @@ stage ('Apply resources') {
 when {
 
 branch 'main'
+}
 
 steps {
 
